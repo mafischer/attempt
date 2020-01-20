@@ -1,0 +1,8 @@
+# IDE junk
+.idea
+
+# misc junk
+*.log
+
+# npm libs
+node_modules

@@ -1,0 +1,26 @@
+{
+  "name": "attempt-callback",
+  "version": "1.0.0",
+  "description": "Utility function for retrying a function when a failure occurs",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gecgithub01.walmart.com:StoreSystemsPOC/attempt.git"
+  },
+  "keywords": [
+    "retry",
+    "attempt"
+  ],
+  "author": "Michael Fischer",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
